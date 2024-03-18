@@ -32,11 +32,11 @@ SteamOS-alternatives-overview intends to provide an quick glance at the main dif
 | Full source publicly hosted       | :heavy_check_mark: | :x:                | :x:               |:heavy_check_mark:|:heavy_check_mark:|
 
 # Emoji Definitions
-✔️ means yes, it is supported
-❌ means no, it is not supported
-❔ means help wanted, author wasn't sure or couldn't judge the covered topic.
-⚪ means the feature doesn't apply to this distribution and cannot be evaluated.
-an empty cell is missing information. It is not intentionally left blank.
+- ✔️ means yes, it is supported
+- ❌ means no, it is not supported
+- ❔ means help wanted, author wasn't sure or couldn't judge the covered topic.
+- ⚪ means the feature doesn't apply to this distribution and cannot be evaluated.
+- an empty cell is missing information. It is not intentionally left blank.
 
 # Footnotes
 WIP
