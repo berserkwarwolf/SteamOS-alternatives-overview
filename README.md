@@ -2,9 +2,9 @@
 SteamOS-alternatives-overview intends to provide an quick glance at the main differences between the Linux distributions offering an experience similar to Steam OS (Steam Deck's OS).
 
 # Table of Contents
-1. Distribution Overview
-2. Emoji Definitions
-3. How to Contribute (WIP)
+1. [Distribution Overview](https://github.com/berserkwarwolf/steamos-alternatives-overview#distribution-overview)
+2. [Emoji Definitions](https://github.com/berserkwarwolf/steamos-alternatives-overview#emoji-definitions)
+3. [How to Contribute (WIP)](https://github.com/berserkwarwolf/steamos-alternatives-overview#how-to-contribute-wip)
 
 # Distribution Overview
 
