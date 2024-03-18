@@ -49,3 +49,6 @@ work in an editor that supports some sort of WYSIWYG like Obsidian or Typora oth
 To add a service it is always good to take the current version of the table to match the columns. I'll try to merge all PRs in a timely manner.
 
 open issue or a PR
+
+# Credits & acknowledgements
+Thanks to the ChimeraOS project for most of the information found on the table, and selfhosted-music-overview for the structure inspiration.
